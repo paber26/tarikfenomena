@@ -8,3 +8,7 @@ Yang mau dilakukan
 Backend
 1. python untuk ambil data pakai flask
 2. pembuatan database untuk nyimpan hasil database
+
+Server:
+1. Vercel 
+2. Airflow untuk trigger saat offline
