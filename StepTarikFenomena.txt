@@ -8,3 +8,14 @@ Yang mau dilakukan
 Server:
 1. Vercel 
 2. Airflow untuk trigger saat offline
+
+ALUR:
+Tribunnews
+↓ (Scraping Python)
+Backend Flask
+↓
+DeepSeek API
+↓
+Hasil Analisis Fenomena
+↓
+Next.js Frontend
