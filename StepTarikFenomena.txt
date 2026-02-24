@@ -1,6 +1,7 @@
 Yang mau dilakukan
 1. Tarik data https://manado.tribunnews.com/
 2. Simpan di database, kategori judul, tanggal, tagar, isi
+3. Pelajari Flask dan api deepseek
 
 
 
@@ -12,3 +13,11 @@ Backend
 Server:
 1. Vercel 
 2. Airflow untuk trigger saat offline
+
+
+Lino
+Ambil di tribunnews
+
+Aldo
+Ambil di kompas
+
