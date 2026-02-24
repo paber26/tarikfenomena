@@ -1,3 +1,10 @@
 Yang mau dilakukan
 1. Tarik data https://manado.tribunnews.com/
 2. Simpan di database, kategori judul, tanggal, tagar, isi
+
+
+
+
+Backend
+1. python untuk ambil data pakai flask
+2. pembuatan database untuk nyimpan hasil database
